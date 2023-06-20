@@ -11,4 +11,4 @@ To achieve this, The data provided in the establishments.json file was import fr
 
 - Collection establishments. 
 
-The database was modified and explanatoey analysis done.
+The database was modified and explanatory analysis done.
